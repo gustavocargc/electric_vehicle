@@ -1,5 +1,4 @@
-# electric_vehicle
-Prediction of energy consumption in electric cars
+# Prediction of energy consumption in electric cars
 
 A transportation and logistics company wants to migrate its fleet to electric cars in order to reduce costs.
 
